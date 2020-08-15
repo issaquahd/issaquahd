@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Kuberenetes Admin Certification and Nutanix NCP-MCA Multi Cloud Certification
 - 🌱 I’m currently learning ... Go, Python, AI/ML via raspberry pi 
 - 👯 I’m looking to collaborate on ...anything coding
-- 🤔 I’m looking for help with ...python & go 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with ...Kubernetes, Calico, ephemeral /persistent storage
+- 💬 Ask me about ... cloud native, K8's, orchestration
+- 📫 How to reach me: ... alex.alvord@nutanix.com linkedin.com/in/alexalvord
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ... we are all connected in this universe by a vibrational frequency, a field. My goal is to constantly tune and elevate my own vibrational frequency by making good with this Earth. 
 -->
