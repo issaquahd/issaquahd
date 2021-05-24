@@ -38,3 +38,4 @@ I am deeply committed to the opensource community. I advocate for Cloud Native a
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... we are all connected in this universe by a vibrational frequency, a field. My goal is to constantly tune and elevate my own vibrational frequency by making good with this Earth and its habitents. 
 -->
+I have recently passed the NCP-MCI in May of 2020. I also passed the AWS Solutions Architect - Associate and the Aviatrix ACE Certification. Currently springting toward Azure 900, Hashicorp Terraform, Nutanix DaaS - 5 and many many many more. 
