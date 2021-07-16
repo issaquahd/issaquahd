@@ -1,8 +1,13 @@
-### Hi there 
+### Hi there , Ni hao! My name is Alex Alvord!
 
 <!--
 **issaquahd/issaquahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 About ME: 
+
+![image](https://user-images.githubusercontent.com/3764699/125983614-2d3cb7d1-c916-4b44-80ec-dbc31ab910a5.png)
+![image](https://user-images.githubusercontent.com/3764699/125983678-93da8741-b12b-4315-8c7a-5522adc88111.png)
+![image](https://user-images.githubusercontent.com/3764699/125983726-e6bdfb14-2cca-454b-9e4c-2328815c4133.png)
+
 
 » Focus and experience with disruptive technologies. Compute, network, optimization, automation, and orchestration. Cloud-enabler. Invisible Infrastructure.
 
