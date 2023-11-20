@@ -2,7 +2,7 @@
 
 **issaquahd/issaquahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 About ME: 
-### Certifcations! 
+### Stuff! 
 ![image](https://user-images.githubusercontent.com/3764699/125983614-2d3cb7d1-c916-4b44-80ec-dbc31ab910a5.png)
 ![image](https://user-images.githubusercontent.com/3764699/125985167-c01416f1-a82d-4a54-92ce-fbb63f3f9669.png)
 ![image](https://user-images.githubusercontent.com/3764699/125983726-e6bdfb14-2cca-454b-9e4c-2328815c4133.png)
