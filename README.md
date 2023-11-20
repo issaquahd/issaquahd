@@ -2,7 +2,7 @@
 
 **issaquahd/issaquahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 About ME: ![images](https://github.com/issaquahd/issaquahd/assets/3764699/f73918cb-5dcc-4395-979c-f7007fb85c2a)
-![photo (2)](https://github.com/issaquahd/issaquahd/assets/3764699/fffefc47-9798-4cdb-8af1-67cf98b755fa)
+![photo (2)](https://github.com/issaquahd/issaquahd/assets/3764699/fffefc47-9798-4cdb-8af1-67cf98b755fa) Super Computing Conference 2011, Seattle WA - Interacting with Watson by IBM whom stole the show that year. 
 
 ### Stuff! 
 ![image](https://user-images.githubusercontent.com/3764699/125983614-2d3cb7d1-c916-4b44-80ec-dbc31ab910a5.png)
