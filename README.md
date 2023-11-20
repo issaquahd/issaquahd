@@ -1,4 +1,4 @@
-### Hi there , Ni hao! My name is Alex Alvord!
+### Hi there , Ni Hao! My name is Alex Alvord!
 
 **issaquahd/issaquahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 About ME: 
@@ -28,10 +28,10 @@ About ME:
 ![image](https://user-images.githubusercontent.com/3764699/125986735-4f1ef18b-af1a-49f9-9ece-cc7524a8bf29.png)
 
 
-- 🔭 I’m currently working on ... a ton of upskilling
-- 🌱 I’m currently learning ... K3, K8's home lab, openCV for my dive into neural network and image classification. 
+- 🔭 I’m currently working on ... ask me! Writing a book with Packt on Hybrid Multi Cloud, continuing to upskill and have been working on a lot of community involvement and work by mentoring! 
+- 🌱 I’m currently learning ... a lot of hybrid cloud networking, IaC, Solutions Architecting, AI and automation 
 - 👯 I’m looking to collaborate on ...anything opensource
-- 🤔 I’m looking for help with ...Kubernetes, Calico, ephemeral /persistent storage
+- 🤔 I’m looking for help with ...AI / ML 
 - 💬 Ask me about ... cloud native, K8's, orchestration, automation, low code/no code
 - 📫 How to reach me: ... alex.alvord@nutanix.com OR linkedin.com/in/alexalvord
 - 😄 Pronouns: ...He/Him
