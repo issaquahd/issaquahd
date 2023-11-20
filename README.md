@@ -1,7 +1,9 @@
 ### Hi there , Ni Hao! My name is Alex Alvord!
 
 **issaquahd/issaquahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-About ME: 
+About ME: ![images](https://github.com/issaquahd/issaquahd/assets/3764699/f73918cb-5dcc-4395-979c-f7007fb85c2a)
+![photo (2)](https://github.com/issaquahd/issaquahd/assets/3764699/fffefc47-9798-4cdb-8af1-67cf98b755fa)
+
 ### Stuff! 
 ![image](https://user-images.githubusercontent.com/3764699/125983614-2d3cb7d1-c916-4b44-80ec-dbc31ab910a5.png)
 ![image](https://user-images.githubusercontent.com/3764699/125985167-c01416f1-a82d-4a54-92ce-fbb63f3f9669.png)
@@ -10,6 +12,7 @@ About ME:
 ![image](https://user-images.githubusercontent.com/3764699/125985327-e5380d63-a1e1-4f49-9157-f2b9aae0690a.png)
 ![image](https://user-images.githubusercontent.com/3764699/125985391-53578cca-ac7c-4cd5-9b54-524247586cd5.png)
 ![image](https://user-images.githubusercontent.com/3764699/125985429-05aed314-1084-4de5-9b69-739fbd0a737e.png)
+![download](https://github.com/issaquahd/issaquahd/assets/3764699/e16c2cec-ccc1-4a39-807d-d4cb9ffbce4a)
 
 ### Favorite Tooling!
 ![image](https://user-images.githubusercontent.com/3764699/125985615-a6756c1e-a910-4b0c-844a-ef63cd9eb396.png)
