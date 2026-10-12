@@ -26,6 +26,7 @@ Invisible Infrastructure.
 |:--|:--|:--|
 | [prove-it-done](https://github.com/issaquahd/prove-it-done) | An agent skill: nothing counts as done until a verifier re-checks the receipt | ![release](https://img.shields.io/github/v/release/issaquahd/prove-it-done?style=flat-square&labelColor=0d1117&color=00ff41) ![CI](https://github.com/issaquahd/prove-it-done/actions/workflows/ci.yml/badge.svg) |
 | [oak-events](https://github.com/issaquahd/oak-events) | Privacy-first events from Luxonis OAK cameras for AI agents, over MCP. No pictures leave the camera | ![release](https://img.shields.io/github/v/release/issaquahd/oak-events?style=flat-square&labelColor=0d1117&color=00ff41) ![CI](https://github.com/issaquahd/oak-events/actions/workflows/ci.yml/badge.svg) |
+| [prove-it-done-gemini](https://github.com/cloudlabworks/prove-it-done-gemini) | The prove-it-done skill as a Gemini CLI extension: the agent proves each claim with a re-runnable receipt before it says done | ![release](https://img.shields.io/github/v/tag/cloudlabworks/prove-it-done-gemini?style=flat-square&labelColor=0d1117&color=00ff41) |
 
 ## `> certs --matrix`
 
