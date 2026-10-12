@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://cloudlabworks.dev"><img src="https://img.shields.io/badge/cloudlabworks.dev-site%20%2B%20blog-00ff41?style=flat-square&labelColor=0d1117&logo=cloudflare&logoColor=00ff41" alt="cloudlabworks.dev"></a>
   <a href="https://linkedin.com/in/alexalvord"><img src="https://img.shields.io/badge/linkedin-alexalvord-00ff41?style=flat-square&labelColor=0d1117" alt="LinkedIn"></a>
-  <a href="https://x.com/mycloudcompute"><img src="https://img.shields.io/badge/x-%40mycloudcompute-00ff41?style=flat-square&labelColor=0d1117&logo=x&logoColor=00ff41" alt="X"></a>
   <a href="mailto:alex@cloudlabworks.dev"><img src="https://img.shields.io/badge/mail-alex%40cloudlabworks.dev-00ff41?style=flat-square&labelColor=0d1117" alt="Email"></a>
   <a href="https://orcid.org/0009-0008-0614-1636"><img src="https://img.shields.io/badge/orcid-0009--0008--0614--1636-00ff41?style=flat-square&labelColor=0d1117&logo=orcid&logoColor=00ff41" alt="ORCID"></a>
 </p>
