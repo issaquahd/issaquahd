@@ -33,16 +33,8 @@ Invisible Infrastructure.
 | [NC2 IAM Preflight](https://github.com/cloudlabworks/nc2-iam-preflight) | Read-only permission checks for NC2 onboarding across AWS, Azure and Google Cloud. |
 | [NC2 on AWS, as code](https://github.com/cloudlabworks/nc2-aws-as-code) | OpenTofu reference implementation using Nutanix v4 APIs for NC2 on AWS. |
 | [Utility VM Egress Validator](https://github.com/cloudlabworks/utility-vm-egress-validator) | A throwaway utility VM checks real landing-zone egress across Azure, AWS and Google Cloud, with cleanup of the resources it creates. |
-
-### In development — local previews
-
-[![Agent Trace Clinic — local preview](https://cloudlabworks.dev/media/oss-agent-trace-clinic-cover.jpg)](https://cloudlabworks.dev/oss/agent-trace-clinic)
-
-**Agent Trace Clinic** — Browser-local, deterministic triage of agent traces with evidence-linked findings and HTML/JSON report exports. Local preview; not a public software release.
-
-[![MCP Failure Lab — local preview](https://cloudlabworks.dev/media/oss-mcp-failure-lab-cover.jpg)](https://cloudlabworks.dev/oss/mcp-failure-lab)
-
-**MCP Failure Lab** — A deliberately faulty MCP server and bounded reference-client harness for tool errors, delays, malformed results and disconnects. Local preview; not a public software release.
+| [Agent Trace Clinic](https://github.com/cloudlabworks/agent-trace-clinic) | Browser-local, deterministic triage of agent traces with evidence-linked findings and HTML/JSON report exports. |
+| [MCP Failure Lab](https://github.com/cloudlabworks/mcp-failure-lab) | A deliberately faulty MCP server and bounded reference-client harness for tool errors, delays, malformed results and disconnects. Traces on [Hugging Face](https://huggingface.co/datasets/cloudlabworks/mcp-failure-lab-traces). |
 
 [Project covers, details and source links](https://cloudlabworks.dev/portfolio#oss)
 
