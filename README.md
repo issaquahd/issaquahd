@@ -69,6 +69,7 @@ Invisible Infrastructure.
 |:--:|:--:|:--:|
 | ![FinOps Foundation](https://img.shields.io/badge/FinOps-Foundation-00ff41?style=flat-square&labelColor=0d1117) | ![OpenAPI Initiative](https://img.shields.io/badge/OpenAPI-Initiative-00ff41?style=flat-square&labelColor=0d1117&logo=openapiinitiative&logoColor=00ff41) | ![OCC](https://img.shields.io/badge/OCC-member-00ff41?style=flat-square&labelColor=0d1117) |
 | ![DevOps Institute](https://img.shields.io/badge/DevOps-Institute-00ff41?style=flat-square&labelColor=0d1117) | ![TAF](https://img.shields.io/badge/TAF-Technology%20Access%20Foundation-00ff41?style=flat-square&labelColor=0d1117) | ![OpenCloud](https://img.shields.io/badge/OpenCloud-member-00ff41?style=flat-square&labelColor=0d1117) |
+| [![NVIDIA Inception](https://img.shields.io/badge/NVIDIA%20Inception-member-00ff41?style=flat-square&labelColor=0d1117&logo=nvidia&logoColor=00ff41)](https://www.nvidia.com/en-us/startups/) | [![Cognitum Seed](https://img.shields.io/badge/Cognitum%20Seed-founding%20member-00ff41?style=flat-square&labelColor=0d1117)](https://cognitum.one/) | |
 
 ## `> systemctl status alex`
 
