@@ -7,6 +7,8 @@
   <a href="https://linkedin.com/in/alexalvord"><img src="https://img.shields.io/badge/linkedin-alexalvord-00ff41?style=flat-square&labelColor=0d1117" alt="LinkedIn"></a>
   <a href="mailto:alex@cloudlabworks.dev"><img src="https://img.shields.io/badge/mail-alex%40cloudlabworks.dev-00ff41?style=flat-square&labelColor=0d1117" alt="Email"></a>
   <a href="https://orcid.org/0009-0008-0614-1636"><img src="https://img.shields.io/badge/orcid-0009--0008--0614--1636-00ff41?style=flat-square&labelColor=0d1117&logo=orcid&logoColor=00ff41" alt="ORCID"></a>
+  <a href="https://scholar.google.com/citations?user=0Htx4jQAAAAJ"><img src="https://img.shields.io/badge/google%20scholar-Alex%20Alvord-00ff41?style=flat-square&labelColor=0d1117&logo=googlescholar&logoColor=00ff41" alt="Google Scholar"></a>
+  <a href="https://www.webofscience.com/wos/author/record/RJT-9484-2026"><img src="https://img.shields.io/badge/web%20of%20science-RJT--9484--2026-00ff41?style=flat-square&labelColor=0d1117" alt="Web of Science ResearcherID"></a>
 </p>
 
 ```text
@@ -61,7 +63,7 @@ Invisible Infrastructure.
 |:--:|:--:|:--:|
 | ![FinOps Foundation](https://img.shields.io/badge/FinOps-Foundation-00ff41?style=flat-square&labelColor=0d1117) | ![OpenAPI Initiative](https://img.shields.io/badge/OpenAPI-Initiative-00ff41?style=flat-square&labelColor=0d1117&logo=openapiinitiative&logoColor=00ff41) | ![OCC](https://img.shields.io/badge/OCC-member-00ff41?style=flat-square&labelColor=0d1117) |
 | ![DevOps Institute](https://img.shields.io/badge/DevOps-Institute-00ff41?style=flat-square&labelColor=0d1117) | ![TAF](https://img.shields.io/badge/TAF-Technology%20Access%20Foundation-00ff41?style=flat-square&labelColor=0d1117) | ![OpenCloud](https://img.shields.io/badge/OpenCloud-member-00ff41?style=flat-square&labelColor=0d1117) |
-| [![NVIDIA Inception](https://img.shields.io/badge/NVIDIA%20Inception-member-00ff41?style=flat-square&labelColor=0d1117&logo=nvidia&logoColor=00ff41)](https://www.nvidia.com/en-us/startups/) | [![Cognitum Seed](https://img.shields.io/badge/Cognitum%20Seed-founding%20member-00ff41?style=flat-square&labelColor=0d1117)](https://cognitum.one/) | |
+| [![NVIDIA Inception](https://img.shields.io/badge/NVIDIA%20Inception-member-00ff41?style=flat-square&labelColor=0d1117&logo=nvidia&logoColor=00ff41)](https://www.nvidia.com/en-us/startups/) | [![Cognitum Seed](https://img.shields.io/badge/Cognitum%20Seed-founding%20member-00ff41?style=flat-square&labelColor=0d1117)](https://cognitum.one/) | [![AAAI](https://img.shields.io/badge/AAAI-member-00ff41?style=flat-square&labelColor=0d1117)](https://aaai.org/) |
 
 ## `> systemctl status alex`
 
