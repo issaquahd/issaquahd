@@ -44,6 +44,7 @@ Invisible Infrastructure.
 
 | Vendor | Foundational / Associate | Professional / Architect | Expert / Specialist |
 |:--|:--|:--|:--|
+| **CNCF** | [Kubernetes and Cloud Native Associate (KCNA)](https://cloudlabworks.dev/certifications#kcna) · October 31, 2026 · LF-novvumppw0 | — | — |
 | **Nutanix** | ![NCP-MCA 6](https://img.shields.io/badge/NCP--MCA-v6-00ff41?style=flat-square&labelColor=0d1117&logo=nutanix&logoColor=00ff41) | ![NCM-MCI](https://img.shields.io/badge/NCM--MCI-Master-00ff41?style=flat-square&labelColor=0d1117&logo=nutanix&logoColor=00ff41) | ![Nutanix SME](https://img.shields.io/badge/Subject%20Matter-Expert-00ff41?style=flat-square&labelColor=0d1117&logo=nutanix&logoColor=00ff41) |
 | **AWS** | ![AWS SA Associate](https://img.shields.io/badge/Solutions%20Architect-Associate-00ff41?style=flat-square&labelColor=0d1117) | ![AWS SA Professional](https://img.shields.io/badge/Solutions%20Architect-Professional-00ff41?style=flat-square&labelColor=0d1117) | — |
 | **Microsoft** | ![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-00ff41?style=flat-square&labelColor=0d1117) | — | — |
