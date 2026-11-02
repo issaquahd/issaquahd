@@ -14,7 +14,7 @@
 ```text
 $ whoami
 alex.alvord      Advisory Solutions Architect, Hybrid Multicloud @ Nutanix
-                 Seattle, WA · he/him · Duvall Lab · Cloud Lab Works LLC
+                 Seattle, WA · he/him · Duvall Lab · CloudLab Works
 
 $ cat /etc/motd
 Focus and experience with disruptive technologies. Compute, network,
@@ -64,7 +64,12 @@ Invisible Infrastructure.
 |:--:|:--:|:--:|
 | ![FinOps Foundation](https://img.shields.io/badge/FinOps-Foundation-00ff41?style=flat-square&labelColor=0d1117) | ![OpenAPI Initiative](https://img.shields.io/badge/OpenAPI-Initiative-00ff41?style=flat-square&labelColor=0d1117&logo=openapiinitiative&logoColor=00ff41) | ![OCC](https://img.shields.io/badge/OCC-member-00ff41?style=flat-square&labelColor=0d1117) |
 | ![DevOps Institute](https://img.shields.io/badge/DevOps-Institute-00ff41?style=flat-square&labelColor=0d1117) | ![TAF](https://img.shields.io/badge/TAF-Technology%20Access%20Foundation-00ff41?style=flat-square&labelColor=0d1117) | ![OpenCloud](https://img.shields.io/badge/OpenCloud-member-00ff41?style=flat-square&labelColor=0d1117) |
-| [![NVIDIA Inception](https://img.shields.io/badge/NVIDIA%20Inception-member-00ff41?style=flat-square&labelColor=0d1117&logo=nvidia&logoColor=00ff41)](https://www.nvidia.com/en-us/startups/) | [![Cognitum Seed](https://img.shields.io/badge/Cognitum%20Seed-founding%20member-00ff41?style=flat-square&labelColor=0d1117)](https://cognitum.one/) | [![AAAI](https://img.shields.io/badge/AAAI-member-00ff41?style=flat-square&labelColor=0d1117)](https://aaai.org/) |
+| [![NVIDIA Inception](https://img.shields.io/badge/NVIDIA%20Inception-member-00ff41?style=flat-square&labelColor=0d1117&logo=nvidia&logoColor=00ff41)](https://www.nvidia.com/en-us/startups/) | [![Cognitum Seed](https://img.shields.io/badge/Cognitum%20Seed-owner-00ff41?style=flat-square&labelColor=0d1117)](https://cognitum.one/) | [![AAAI](https://img.shields.io/badge/AAAI-member-00ff41?style=flat-square&labelColor=0d1117)](https://aaai.org/) |
+| [![AWS Activate](https://img.shields.io/badge/AWS%20Activate-member-00ff41?style=flat-square&labelColor=0d1117&logo=amazonwebservices&logoColor=00ff41)](https://aws.amazon.com/startups/) | [![NVIDIA Developer Program](https://img.shields.io/badge/NVIDIA%20Developer%20Program-member-00ff41?style=flat-square&labelColor=0d1117&logo=nvidia&logoColor=00ff41)](https://developer.nvidia.com/developer-program) | [![AMD AI Developer Program](https://img.shields.io/badge/AMD%20AI%20Developer%20Program-member-00ff41?style=flat-square&labelColor=0d1117&logo=amd&logoColor=00ff41)](https://developer.amd.com/ai-developer-program/) |
+| [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-cloudlabworks-00ff41?style=flat-square&labelColor=0d1117&logo=huggingface&logoColor=00ff41)](https://huggingface.co/cloudlabworks) | [![Kaggle](https://img.shields.io/badge/Kaggle-member%20and%20competitor-00ff41?style=flat-square&labelColor=0d1117&logo=kaggle&logoColor=00ff41)](https://www.kaggle.com/alexalvord) | [![Codabench](https://img.shields.io/badge/Codabench-NeurIPS%202026-00ff41?style=flat-square&labelColor=0d1117)](https://www.codabench.org/competitions/17828/) |
+| [![Devpost](https://img.shields.io/badge/Devpost-OpenCV%20AI%202026-00ff41?style=flat-square&labelColor=0d1117&logo=devpost&logoColor=00ff41)](https://devpost.com/alex800) | [![DrivenData](https://img.shields.io/badge/DrivenData-member-00ff41?style=flat-square&labelColor=0d1117)](https://www.drivendata.org/users/cloudlabworks/) | [![Zindi](https://img.shields.io/badge/Zindi-member-00ff41?style=flat-square&labelColor=0d1117)](https://zindi.world/users/cloudlabworks) |
+| [![EvalAI](https://img.shields.io/badge/EvalAI-member-00ff41?style=flat-square&labelColor=0d1117)](https://eval.ai/) | [![AIcrowd](https://img.shields.io/badge/AIcrowd-member-00ff41?style=flat-square&labelColor=0d1117)](https://www.aicrowd.com/) | [![X-MOL](https://img.shields.io/badge/X--MOL-member-00ff41?style=flat-square&labelColor=0d1117)](https://www.x-mol.net/) |
+| [![Swamp Club](https://img.shields.io/badge/Swamp%20Club-member-00ff41?style=flat-square&labelColor=0d1117)](https://swamp-club.com/u/cloudlabworks) |  |  |
 
 ## `> systemctl status alex`
 
